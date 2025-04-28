@@ -77,6 +77,6 @@ interface Transaction {
 }
 
 
-## 배포 링크
+## 사이트 바로가기
 
-[배포 링크](https://alex8396.github.io/money-tracker/)
+[사이트 바로가기](https://alex8396.github.io/money-tracker/)
