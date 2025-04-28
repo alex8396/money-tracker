@@ -33,7 +33,7 @@
 
 ## 설치 및 실행
 
-```bash
+bash
 # 저장소 클론
 git clone https://github.com/your-username/money-tracker.git
 
