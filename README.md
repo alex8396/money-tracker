@@ -52,7 +52,7 @@ npm run build
 
 ## 프로젝트 구조
 
-
+```
 money-tracker/
 ├── src/
 │   ├── components/     # 재사용 가능한 컴포넌트
@@ -62,7 +62,7 @@ money-tracker/
 │   └── App.tsx        # 메인 애플리케이션
 ├── public/            # 정적 파일
 └── package.json       # 프로젝트 설정
-
+```
 
 ## 데이터 구조
 
